@@ -1,2 +1,3 @@
-This template was made by Colorlib (https://colorlib.com)
-Please visit our website for more awesome templates, themes and tools. 
+Bootstrap 5.
+Html, css, js.
+Alexander Vorobiov-Wilson for Polyus Hackathon.
